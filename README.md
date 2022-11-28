@@ -8,3 +8,4 @@ It now includes steps for GitHub
 
 
 And we make some changes to the README.md file. Just add a new line.
+git commit -m "Adding plines to reddme"
